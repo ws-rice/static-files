@@ -1,0 +1,2 @@
+# static-files
+Static files
