@@ -17,4 +17,8 @@ Static files - general
   https://cdn.jsdelivr.net/gh/ws-rice/static-files@main/kinder/Kinder-Institute-NNERPP-logo-color-stacked.png
   https://cdn.jsdelivr.net/gh/ws-rice/static-files@main/kinder/Kinder-Institute-logo-color-stacked.png
   ```
+  - #### Favicon:
+  ```
+  https://cdn.jsdelivr.net/gh/ws-rice/static-files@main/icons/favicon.ico
+  ```
 ---------------
