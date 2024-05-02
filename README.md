@@ -21,4 +21,8 @@ Static files - general
   ```
   https://cdn.jsdelivr.net/gh/ws-rice/static-files@latest/icons/favicon.ico
   ```
+  - #### Backgrounds:
+  ```
+  https://cdn.jsdelivr.net/gh/ws-rice/static-files@latest/images/151008_Lovett_Hall-0017_1920.jpg
+  ```
 ---------------
